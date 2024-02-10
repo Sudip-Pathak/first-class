@@ -1,2 +1,1 @@
-# first-class
-My First Repo
+# My First  Class!
