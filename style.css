@@ -1,0 +1,50 @@
+/* styles.css */
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    background-color: yellow;
+    padding: 20px;
+  }
+  
+  .header img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  .header p {
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  .login-form {
+    margin-top: 20px;
+  }
+  
+  .login-form h2 {
+    font-size: 20px;
+  }
+  
+  .login-form input[type="email"],
+  .login-form input[type="password"] {
+    width: 25%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .login-form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Add more styles as needed */
+  
